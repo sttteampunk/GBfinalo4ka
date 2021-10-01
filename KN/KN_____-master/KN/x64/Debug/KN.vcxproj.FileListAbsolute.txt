@@ -1,0 +1,4 @@
+C:\Users\SRT\source\repos\KN\KN_____-master\KN\x64\Debug\KN.vcxproj.AssemblyReference.cache
+C:\Users\SRT\source\repos\KN\KN_____-master\KN\x64\Debug\KN.GameForm.resources
+C:\Users\SRT\source\repos\KN\KN_____-master\KN\x64\Debug\KN.StartForm.resources
+C:\Users\SRT\source\repos\KN\KN_____-master\KN\x64\Debug\KN.vcxproj.GenerateResource.cache

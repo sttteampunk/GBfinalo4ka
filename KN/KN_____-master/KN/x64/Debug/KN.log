@@ -1,0 +1,9 @@
+﻿  GameForm.cpp
+  GameMap.cpp
+  Gamer.cpp
+  StartForm.cpp
+C:\Users\SRT\source\repos\KN\KN_____-master\KN\StartForm.cpp(8,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  GameForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  KN.vcxproj -> C:\Users\SRT\source\repos\KN\KN_____-master\x64\Debug\KN.exe
